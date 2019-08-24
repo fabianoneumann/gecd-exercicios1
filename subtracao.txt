@@ -4,10 +4,10 @@ Uma subtração é representada por:
 
  a - b = c
 
-a é o minuendo, b é o subtraendo e c é a diferença ou resto[2].
+a é o minuendo, b é o subtraendo e c é a diferença ou resto.
 
 A subtração é o mesmo que a adição por um número de sinal inverso.
 
-Note que -b é o número oposto ou inverso de b, isto é b + (-b) = b - b = 0[3].
+Note que -b é o número oposto ou inverso de b, isto é b + (-b) = b - b = 0.
 
 Dessa forma a subtração é, portanto, a operação inversa da adição.
