@@ -1,0 +1,13 @@
+Subtração é uma operação matemática que indica quanto é um valor numérico (minuendo) se dele for removido outro valor numérico (subtraendo), em outras palavras, uma quantidade é retirada de outra, e o valor restante é o resultado dessa operação.[1].
+
+Uma subtração é representada por:
+
+ a - b = c
+
+a é o minuendo, b é o subtraendo e c é a diferença ou resto.
+
+A subtração é o mesmo que a adição por um número de sinal inverso.
+
+Note que -b é o número oposto ou inverso de b, isto é b + (-b) = b - b = 0.
+
+Dessa forma a subtração é, portanto, a operação inversa da adição.
